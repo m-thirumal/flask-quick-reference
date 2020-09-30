@@ -1,10 +1,10 @@
 # flask-quick-reference
 
-Install the project requirements 
+To install the requirements 
 
     pip install -r requirements.txt
      
-Run the project using
+To run the project 
     
     python main.py
     
