@@ -1,4 +1,4 @@
-# flask-quick-reference
+# Flask-quick-reference
 
 To install the requirements 
 
@@ -6,5 +6,12 @@ To install the requirements
      
 To run the project 
     
-    python main.py
+    python app.py
     
+# Hot Reload with Debug/Development environment
+
+    export FLASK_APP=app.py
+    export FLASK_ENV=development
+    python -m flask run
+
+
